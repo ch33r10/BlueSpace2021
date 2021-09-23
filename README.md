@@ -3,14 +3,18 @@
 <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
  <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
 </p>
-<h3 align="center">PURPLE TEAM EXERCISE IDEA QUEUE🎡 - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></h3>
-<h3 align="center">📽️🍿PURPLE TEAM YOUTUBE PLAYLIST🍫🍬 - <a href="https://youtube.com/playlist?list=PL_tPOjPUxtXB8Jc-1p9EDPuqZP44Yk_CX">Link</a></h3>
-<h3 align="center">📻SPOTIFY PLAYLIST🎶🎶🎶 - <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1">Link</a></h3>
+<h3 align="center">PURPLE TEAM EXERCISE IDEA QUEUE W/ THREAT HUNTING SUGGESTIONS 🎡 - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></h3>
+<h3 align="center">SANS THREAT HUNTING YOUTUBE PLAYLIST🎬 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpDHZ4gudmK55ZGDS_NmiDl">Link</a></h3>
+<h3 align="center">SANS THREAT HUNTING SUMMIT 2020🍿 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpESwgitHe8roa7XBOnemFa">Link</a></h3>
+<h3 align="center">SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2019📽️ - <a href="https://youtube.com/playlist?list=PLfouvuAjspToqZfYaOuWlnHCZUcBTRjzq">Link</a></h3>
+<h3 align="center">SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2018🍫 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTrUOTh_FTljg3qAXHPtOrIx">Link</a></h3>
+<h3 align="center">📽️🍿SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2017🍬 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTr95R60Kt7ZcoerR6tYoCLA">Link</a></h3>
+
 <p><h3 align="center"><b>ABSTRACT</b></h3></p>
 <p align="center">WORDS WORDS WORDS</p>
 <hr></hr>
 <p><h3 align="center">🎸<b>RESOURCES</b>🎸</h3></p>
-<p><h1 align="left">📚<b>RESEARCH</b></h1></p>
+<p><h1 align="left">📚<b>LEARNING RESOURCES</b></h1></p>
 <ul>
  <li>Atomic Purple Team by Defensive Origins - <a href="https://github.com/DefensiveOrigins/AtomicPurpleTeam">Link</a></li>
  <ul><li>TALK: Atomic Purple Team Framework and Life Cycle with Kent Ickler & Jordan Drysdale - <a href="https://youtu.be/_KqtVWrw_Gc">Link</a></ul></li>
