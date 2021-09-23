@@ -3,12 +3,12 @@
 <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
  <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
 </p>
-<h3 align="center">PURPLE TEAM EXERCISE IDEA QUEUE W/ THREAT HUNTING SUGGESTIONS 🎡 - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></h3>
-<h3 align="center">SANS THREAT HUNTING YOUTUBE PLAYLIST🎬 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpDHZ4gudmK55ZGDS_NmiDl">Link</a></h3>
-<h3 align="center">SANS THREAT HUNTING SUMMIT 2020🍿 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpESwgitHe8roa7XBOnemFa">Link</a></h3>
-<h3 align="center">SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2019📽️ - <a href="https://youtube.com/playlist?list=PLfouvuAjspToqZfYaOuWlnHCZUcBTRjzq">Link</a></h3>
-<h3 align="center">SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2018🍫 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTrUOTh_FTljg3qAXHPtOrIx">Link</a></h3>
-<h3 align="center">📽️🍿SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2017🍬 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTr95R60Kt7ZcoerR6tYoCLA">Link</a></h3>
+<h2 align="center">PURPLE TEAM EXERCISE IDEA QUEUE W/ THREAT HUNTING SUGGESTIONS 🎡 - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></h2>
+<h4 align="LEFT">SANS THREAT HUNTING YOUTUBE PLAYLIST🎬 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpDHZ4gudmK55ZGDS_NmiDl">Link</a></h4>
+<h4 align="LEFT">SANS THREAT HUNTING SUMMIT 2020🍿 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpESwgitHe8roa7XBOnemFa">Link</a></h4>
+<h4 align="LEFT">SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2019📽️ - <a href="https://youtube.com/playlist?list=PLfouvuAjspToqZfYaOuWlnHCZUcBTRjzq">Link</a></h4>
+<h4 align="LEFT">SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2018🍫 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTrUOTh_FTljg3qAXHPtOrIx">Link</a></h4>
+<h4 align="LEFT">SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2017🍬 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTr95R60Kt7ZcoerR6tYoCLA">Link</a></h4>
 
 <p><h3 align="center"><b>ABSTRACT</b></h3></p>
 <p align="center">WORDS WORDS WORDS</p>
@@ -117,21 +117,6 @@
 <li>SEC699: Purple Team Tactics - Adversary Emulaiton for Breach Prevention & Detection by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/purple-team-tactics-adversary-emulation/">Link</a></li>
 <li>SpecterOps Training - Cost: 💲 - <a href="https://specterops.io/how-we-help/training-offerings">Link</a></li>
 </ul>
-<b></b>
-<p><h1 align="left">🍭<b>PURPLE TEAM COMMERCIAL TOOLS</b></h1></p>
-<ul>
- <li>ATTACKIQ - <a href="https://attackiq.com/">Link</a></li>
- <li>BlindSpot - <a href="https://www.blindspotsec.com/">Link</a></li>
- <li>Cymulate - <a href="https://cymulate.com/">Link</a></li>
- <li>Pentera - <a href="https://www.pentera.io/">Link</a></li>
- <li>PlexTrac - <a href="https://plextrac.com/">Link</a></li>
- <li>RELIAQUEST - <a href="https://www.reliaquest.com/">Link</a></li>
- <li>SafeBreach - <a href="https://www.safebreach.com/">Link</a></li>
- <li>SCYTHE - <a href="https://www.scythe.io/">Link</a></li> 
- <li>SNAPATTACK by Booz Allen Hamilton - <a href="https://www.boozallen.com/s/product/snapattack.html">Link</a></li>
- <li>Verodin by Mandiant - <a href="https://www.fireeye.com/mandiant/security-validation.html">Link</a></li>
- <li>XM CYBER - <a href="https://www.xmcyber.com/">Link</a></li>
-</ul> 
 <b></b>
 <p><h1 align="left">💎<b>THANK YOU</b></h1></p>
 <ul>
