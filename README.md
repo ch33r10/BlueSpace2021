@@ -67,10 +67,12 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
   <ul>
   <li>BlueTeamLabs - Azure Sentinel Hunting Resource - <a href="https://github.com/BlueTeamLabs/sentinel-attack/tree/master/detections">Link</a></li>
  <li>David J. Bianco. Threat Hunting Project - Threat Hunts - <a href="https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts">Link</a></li>
+  <li>Detection Ideas Repo by Vadim Khrykov @BlackMatter23 - <a href="https://github.com/vadim-hunter/Detection-Ideas-Rules/">Link</a></li>
  <li>Hurricane Labs - Threat Hunting with Splunk: Part 2, Process Creation Log Analysis - <a href="https://hurricanelabs.com/splunk-tutorials/threat-hunting-with-splunk-part-2-process-creation-log-analysis/">Link</a></li>
  <li>Roberto Rodriquez. ThreatHunter Playbook - <a href="https://github.com/OTRF/ThreatHunter-Playbook">Link</a></li>
  <li>Sigma Rules - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
- <li>Splunk - Advanced Threat Detection and Response - <a href="https://www.splunk.com/pdfs/technical-briefs/advanced-threat-detection-and-response-tech-brief.pdf">Link</a></li> 
+ <li>Splunk - Advanced Threat Detection and Response - <a href="https://www.splunk.com/pdfs/technical-briefs/advanced-threat-detection-and-response-tech-brief.pdf">Link</a></li>
+ <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
   </ul>
   <p></p>
 <p>🏹<b>GENERAL INFO</b></p>
@@ -110,9 +112,10 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  <li>Questions to Prepare for Trait-based Interview Questions Twitter Thread - <a href="https://twitter.com/jhencinski/status/1450252053188599814?s=20">Link</a></li>
  </ul>
  <p></p>
-<p">🎺<b>SANS THREAT HUNTING YOUTUBE PLAYLISTS</b></p>
+<p">🎺<b>SANS THREAT HUNTING</b></p>
 <ul>
 <li>SANS THREAT HUNTING PLAYLIST🎬 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpDHZ4gudmK55ZGDS_NmiDl">Link</a></li>
+ <li>SANS THREAT HUNTING SUMMIT 2021 Links from the chats collected by Cassie @DFIRDetective - <a href="https://start.me/p/DP6oRw/sans-threat-hunting-2021">Link</a></li>
 <li>SANS THREAT HUNTING SUMMIT 2020🍿 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTpESwgitHe8roa7XBOnemFa">Link</a></li>
 <li>SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2019📽️ - <a href="https://youtube.com/playlist?list=PLfouvuAjspToqZfYaOuWlnHCZUcBTRjzq">Link</a></li>
 <li>SANS THREAT HUNTING & INCIDENT RESPONSE SUMMIT 2018🍫 - <a href="https://youtube.com/playlist?list=PLfouvuAjspTrUOTh_FTljg3qAXHPtOrIx">Link</a></li>
@@ -124,6 +127,8 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
 <ul>
   <li>Active Countermeasures - Cyber Threat Hunting Training - Cost: FREE - <a href="https://www.activecountermeasures.com/cyber-threat-hunting-training-course/">Link</a></li>
  <li>Applied Network Defense - Practical Threat Hunting - Cost: 💲 - <a href="https://www.networkdefense.co/courses/hunting/">Link</a></li>
+ <li>BlueTeamLabsOnline - Cost: 💲 - <a href="https://blueteamlabs.online/">Link</a></li>
+ <li>CyberDefenders - Windows Threat Hunting and others - Cost: FREE & 💲 - <a href="https://cyberdefenders.org/">Link</a></li> 
   <li>INE elearnsecurity - Threat Hunting - Cost: 💲 - <a href="https://ine.com">Link</a></li>
   <li>Mosse Institute - Certified Threat Hunter - Cost: 💲 - <a href="https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html">Link</a></li>
   <li>SANS FOR508 Advanced Incident Response, Threat Hunting, and Digital Forensics - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/">Link</a></li>
