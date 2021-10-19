@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">PAINT IT, BLUE Slides - <a href="https://github.com/ch33r10/BlueSpace2021/blob/main/rock/Talk_2021_Paint_it_Blue.pdf">Link</a></h3>
 
-<p align="center">Tips on transitioning from CTI to Hunt on a budget and with limited time.</p>
+<p align="center">Pro Tips on transitioning from CTI to Hunt</p>
 <hr></hr>
 <p><h1 align="center">🎸<b>RESEARCH</b></h1></p>
  <p></p>
