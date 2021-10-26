@@ -87,6 +87,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  <li>C2 Matrix Slingshot VM with C2s Pre-Installed + VECTR by SANS Institute - <a href="https://www.sans.org/tools/slingshot/">Link</a></li>
 <ul><li>DEMO: C2 Matrix VM Walkthru with Jorge Orchilles - <a href="https://howto.thec2matrix.com/slingshot-c2-matrix-edition">Link</a></ul></li>
  <li>David J. Bianco and Cat Self. SANS Threat Hunting & IR Europe Summit 2020 - <a href="https://youtu.be/HInxsRyYCK4">Link</a></li>
+ <li>David J. Bianco. Sqrrl Archive - <a href="https://www.threathunting.net/sqrrl-archive">Link</a></li>
  <li>David J. Bianco. The Pyramid of Pain - <a href="http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html>Link</a></li>
   <li>David J. Bianco. The ThreatHunting Project - <a href="https://www.threathunting.net/">Link</a></li>
  <li>David J. Bianco. The Threat Hunt Project - Analysis Environment - <a href="https://hub.docker.com/r/threathuntproj/hunting/">Link</a></li>
