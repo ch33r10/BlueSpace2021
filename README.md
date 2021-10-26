@@ -101,7 +101,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
   <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
  <li>Splunk - Threat Hunting with Splunk: The Basics - <a href="https://www.splunk.com/en_us/blog/security/hunting-with-splunk-the-basics.html">Link</a></li>
  <li>Sqrrl. A Framework for Cyber Threat Hunting - <a href="https://www.threathunting.net/files/framework-for-threat-hunting-whitepaper.pdf">Link 1</a> & Backup copy for Link 1 <a href="https://github.com/ch33r10/BlueSpace2021/blob/main/rock/framework-for-threat-hunting-whitepaper.pdf">Link 2</a></li>
- <li>The DFIR Report - <a href="https://thedfirreport.com/">Link></a></li>
+ <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
   <li>Valentina Costa-Gazcon. Practical Threat Intelligence and Data-Driven Threat Hunting - <a href="https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370">Link</a></li>
   </ul>
   <p></p>
