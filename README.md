@@ -15,6 +15,38 @@
 ---|---|---|---
 #HuntingTipOfTheDay, Follow Threat Hunting Accounts EVERYWHERE - <a href="https://twitter.com/i/lists/1445402146434867206">Link</a>|Reading Room - <a href="https://www.sans.org/white-papers/">Link</a>, Webcasts - <a href="https://www.sans.org/webcasts/">Link</a> & Threat Hunting Summit|Prioritize Threat Hunting Talks/Workshops & take a look at YouTube|Join Slack/Discord related to infosec (BlueSpace has a Discord Channel - <a href="invite.gg/bluespace">Link</a>)
 <p></p>
+<h3 align="left">📝<b>CH33R10'S TALK NOTES EXAMPLE</b></h3>
+<sub>I have a folder where I create a document for each conference. I list the name of the talk or workshop and while watching I will take screenshots, if it is allowed, of the slides and make notes that I can reference later. I grab whatever links the speaker(s) share that I can. I make sure to highlight my personal takeaways or takeaways that I feel could be valuable for someone else. I make a point to include things I am curious about regardless of how weird/off-the-wall/impractical my questions/thoughts may be. Any words in the slides that I want to makes sure are searchable, I will type the keywords below the slides.</sub> 
+<p></p>
+TEXAS CYBER SUMMIT 2021
+<ul>
+ <li>Becoming a Threat Hunter: This Is One Way by Jason Wood - <a href="https://youtu.be/na1PBrWvJjY">Link</a></li>
+ <ul><li><B>LINKS</B></li></ul>
+ <ul><ul><li>Crowdstrike Global Threat Report 2021 - <a href="https://www.crowdstrike.com/resources/reports/global-threat-report/">Link</a></li></ul></ul>
+  <ul><ul><li>Crowdstrike Threat Hunting Report 2021 - <a href="https://www.crowdstrike.com/resources/reports/threat-hunting-report-2021/">Link</a></li></ul></ul>
+  <ul><ul><li>Detection Lab by Chris Long - <a href="https://github.com/clong/DetectionLab">Link</a></ul></ul></li>
+  <p></p>
+  <ul><li><B>TALK TAKEAWAYS</B></ul></li>
+  <sub>I took a screenshot of Jason Wood's slide for my personal notes that I retyped below. These are his words on the slide that I duplicated. All credit for the words on the slide goes to Jason Wood. This duplication was for educational purposes.</sub><p></p>
+ <ul><ul><li>Document your Practice</ul></ul></li>
+ <ul><ul><ul><li>Record videos and publish them</ul></ul></ul></li>
+ <ul><ul><ul><li>Write up your learning experience</ul></ul></ul></li>
+ <ul><ul><ul><li>Give a conference presentation</ul></ul></ul></li>
+ <ul><ul><ul><li>Document how you hunt at work</ul></ul></ul></li>
+ <ul><ul><ul><ul><li>Don't publish external. Keep it inside your employer</ul></ul></ul></ul></li>
+  <ul><ul><ul><li>Benefits of documenting</ul></ul></ul></li>
+   <ul><ul><ul><ul><li>Helps you talk about it in interviews</ul></ul></ul></ul></li>
+    <ul><ul><ul><ul><li>Can talk about how you've applied it at work</ul></ul></ul></ul></li>
+   <p></p>
+ <ul><li><B>Ch33r10's RANDOM THOUGHTS & QUESTIONS</B></ul></li>
+ <ul><ul><li>I wonder if it is possible to use Chris Long's Detection Lab with the tools shared in the Busting the Ghost in the Logs talk by Randy Pargman & Jean-Francois Maes during Texas Cyber Summit 2021 - <a href="https://youtu.be/bTU5xTIXoI4">Link</a></ul></ul></li>
+ <ul><ul><li>I wonder how Chris Long's Detection Lab compares with Splunk's Attack Range</ul></ul></li>
+ <ul><ul><li>I wonder how I can take my threat hunting practice to the next level and make my practice more organization relevant, such as tooling, telemetry, honeypots? etc</ul></ul></li>
+<ul><ul><ul><li>I wonder if it is possible to obtain a researcher/academic license for [your organization's EDR solution/a popular EDR solution] and build a custom tailored threat hunting lab</ul></ul></ul></li>
+ <ul><ul><li>For organizations that do not use Sysmon/Windows Events, how can I build threat hunting experience?</ul></ul></li>
+ <ul><ul><li>ETC</ul</ul></li>
+</ul>
+<p></p>
 <p><h1 align="center">🎤<b>PRACTICE</b></h1></p>
 <p></p>
 <h3 align="left">🎵<b>GOAL = PREPARATION</b></h3>
@@ -94,6 +126,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  <li>David J. Bianco. The ThreatHunting Project - Recommended Reading List - <a href="https://www.threathunting.net/reading-list">Link</a></li>
   <li>Digit Oktavianto. Cyber Threat Hunting Workshop - <a href="https://www.itu.int/en/ITU-D/Cybersecurity/Documents/CyberDrill-2020/Cyber%20Threat%20Hunting%20Workshop%20-%20ITU%2019112020.pdf">Link</a></li>
  <li>iRed Team - <a href="https://www.ired.team/">Link</a></li>
+ <li>Jason Wood. Becoming a Threat Hunter: This Is One Way - Texas Cyber Summit 2021 - <a href="https://youtu.be/na1PBrWvJjY">Link</a></li>
  <li>Jennifer Gruener. DIY Splunk - <a href="https://drive.google.com/file/d/1A41Jkydl1z2ydD6ApDjN-fMAYMMNHsHb/view">Link</a></li>
  <li>Joshua Stevens. Hunting for the Undefined Threat: Advanced Analytics & Visualization. RSA Conference 2015 - <a href="https://docs.huihoo.com/rsaconference/usa-2015/anf-w04-hunting-the-undefined-threat-advanced-analytics-visualization.pdf">Link</a></li>
  <li>Matt Bromiley. Thinking like a Hunter: Implementing a Threat Hunting Program. SANS Analyst Paper - <a href="https://www.sans.org/reading-room/whitepapers/analyst/thinking-hunter-implementing-threat-hunting-program-38923">Link</a></li>
@@ -129,7 +162,8 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
   <li>Active Countermeasures - Cyber Threat Hunting Training - Cost: FREE - <a href="https://www.activecountermeasures.com/cyber-threat-hunting-training-course/">Link</a></li>
  <li>Applied Network Defense - Practical Threat Hunting - Cost: 💲 - <a href="https://www.networkdefense.co/courses/hunting/">Link</a></li>
  <li>BlueTeamLabsOnline - Cost: 💲 - <a href="https://blueteamlabs.online/">Link</a></li>
- <li>CyberDefenders - Windows Threat Hunting and others - Cost: FREE & 💲 - <a href="https://cyberdefenders.org/">Link</a></li> 
+ <li>CyberDefenders - Windows Threat Hunting and others - Cost: FREE & 💲 - <a href="https://cyberdefenders.org/">Link</a></li>
+ <li>Detection Lab by Chris Long - <a href="https://github.com/clong/DetectionLab">Link</a></li>
   <li>INE elearnsecurity - Threat Hunting - Cost: 💲 - <a href="https://ine.com">Link</a></li>
   <li>Mosse Institute - Certified Threat Hunter - Cost: 💲 - <a href="https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html">Link</a></li>
   <li>SANS FOR508 Advanced Incident Response, Threat Hunting, and Digital Forensics - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/">Link</a></li>
