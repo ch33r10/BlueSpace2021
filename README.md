@@ -16,7 +16,8 @@
 #HuntingTipOfTheDay, Follow Threat Hunting Accounts EVERYWHERE - <a href="https://twitter.com/i/lists/1445402146434867206">Link</a>|Reading Room - <a href="https://www.sans.org/white-papers/">Link</a>, Webcasts - <a href="https://www.sans.org/webcasts/">Link</a> & Threat Hunting Summit|Prioritize Threat Hunting Talks/Workshops & take a look at YouTube|Join Slack/Discord related to infosec (BlueSpace has a Discord Channel - <a href="invite.gg/bluespace">Link</a>)
 <p></p>
 <h3 align="left">📝<b>CH33R10'S TALK NOTES EXAMPLE</b></h3>
-<sub>I have a folder where I create a document for each conference. I list the name of the talk or workshop and while watching I will take screenshots, if it is allowed, of the slides and make notes that I can reference later. I grab whatever links the speaker(s) share that I can. I make sure to highlight my personal takeaways or takeaways that I feel could be valuable for someone else. I make a point to include things I am curious about regardless of how weird/off-the-wall/impractical my questions/thoughts may be. Any words in the slides that I want to makes sure are searchable, I will type the keywords below the slides.</sub> 
+<sub>I have a folder where I create a document for each conference. 
+ I list the name of the talk or workshop and while watching I will take screenshots, if it is allowed, of the slides and make notes that I can reference later. Any words in the slides that I want to makes sure are searchable, I will type the keywords below the slides. I grab whatever links the speaker(s) share that I can. I make sure to highlight my personal takeaways or takeaways that I feel could be valuable for someone else. I make a point to include things I am curious about regardless of how weird/off-the-wall/impractical my questions/thoughts may be.</sub> 
 <p></p>
 TEXAS CYBER SUMMIT 2021
 <ul>
@@ -27,7 +28,7 @@ TEXAS CYBER SUMMIT 2021
   <ul><ul><li>Detection Lab by Chris Long - <a href="https://github.com/clong/DetectionLab">Link</a></ul></ul></li>
   <p></p>
   <ul><li><B>TALK TAKEAWAYS</B></ul></li>
-  <sub>I took a screenshot of Jason Wood's slide for my personal notes that I retyped below. These are his words on the slide that I duplicated. All credit for the words on the slide goes to Jason Wood. This duplication was for educational purposes.</sub><p></p>
+  <sub>I took a screenshot of Jason Wood's slide for my personal notes that I retyped below. These are his words on the slide that I duplicated. All credit for the words on the slide goes to Jason Wood. This duplication is for educational purposes.</sub><p></p>
  <ul><ul><li>Document your Practice</ul></ul></li>
  <ul><ul><ul><li>Record videos and publish them</ul></ul></ul></li>
  <ul><ul><ul><li>Write up your learning experience</ul></ul></ul></li>
