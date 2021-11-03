@@ -174,7 +174,8 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
 <b></b>
 <p><h1 align="center">💎<b>THANK YOU</b></h1></p>
 <ul>
-Thank you to BlueSpace and Ekoparty! <3
+ <p>Thank you to BlueSpace and Ekoparty! <3</p>
+ <p>Shoutout to @plugxor Muchas Gracias!</p>
  
 </ul> 
 <b></b>
